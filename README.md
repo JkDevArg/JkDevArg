@@ -8,7 +8,7 @@
 <div>
 <h2 align="center">(っ◔◡◔)っ 🦖 Información 🦖</h2>
 <span class="center">
-<img src="https://i52.servimg.com/u/f52/12/98/31/84/69984110.png" weidht="245" height="245" align="left">
+<img src="https://i52.servimg.com/u/f52/12/98/31/84/69984110.png" weidht="220" height="220" align="left">
   </span>
 <li>
 <b>Nombre:</b> Joaquin</li>
