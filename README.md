@@ -37,7 +37,7 @@
 </div>
 <div>
 <p align="center">
-  <br />
+  <br /><br />
   <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&logo=php7&logoColor=white"/>
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 Y en otras cosas...
