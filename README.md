@@ -36,7 +36,7 @@
 <img src="https://i.pinimg.com/originals/cd/39/dc/cd39dce633d39af61d724ea72d758746.gif" align="right">
 </div>
 <div>
-<p align="center"><img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&logo=php7&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+<p align="center">
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 Y en otras cosas...
 </p>
