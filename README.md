@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Programar, escuchar musica & ver memes de dinosaurios
 </li>
 <li>
-<b>Trabajo:</b> Backend 
+<b>Trabajo:</b> Freelance
 </li>
 <br>
 <p>
