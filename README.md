@@ -52,5 +52,4 @@ Y en otras cosas...
 </div>
 <br>
 </div>
-![](https://komarev.com/ghpvc/?username=JkDevArg)
 </body>
