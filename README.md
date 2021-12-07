@@ -43,12 +43,11 @@
 Y en otras cosas...
 </p>
 <br>
-<h2>           (っ◔◡◔)っ 🦖 Contacto🦖</h2>
+<h2>           (っ◔◡◔)っ 🦖 Certificados🦖</h2>
 <img src="https://giffiles.alphacoders.com/872/87250.gif" align="left" width="373.5px" height="208.5px">
 <br>
-<p align="center"></p>
-<p align="center"><a href="https://github.com/JkDevArg" target="_blank"><img src="https://img.shields.io/badge/JkDevArg%20-%235A5D5F.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
-<p align="center"><a href="https://twitch.tv/jkdevpe" target="_blank"><img src="https://img.shields.io/badge/JkDevPe%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.credly.com/badges/61368849-eb69-4725-a65c-afbb6d336d16" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png"/></a>
+<a href="https://www.credly.com/badges/68d5cd13-32e0-4c58-b0c9-0aca2ecb9e56" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png"/></a></p>
 </div>
 <br>
 </div>
