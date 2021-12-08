@@ -47,7 +47,8 @@ Y en otras cosas...
 <img src="https://giffiles.alphacoders.com/872/87250.gif" align="left" width="373.5px" height="208.5px">
 <br>
 <p align="center"><a href="https://www.credly.com/badges/61368849-eb69-4725-a65c-afbb6d336d16" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png"/></a>
-<a href="https://www.credly.com/badges/68d5cd13-32e0-4c58-b0c9-0aca2ecb9e56" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png"/></a></p>
+<a href="https://www.credly.com/badges/68d5cd13-32e0-4c58-b0c9-0aca2ecb9e56" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png"/></a>
+ <a href="https://www.credly.com/badges/aabf426c-239b-4b88-88cd-84b373bc765c/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png"/></a></p>
 </div>
 <br>
 </div>
