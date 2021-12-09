@@ -44,8 +44,8 @@ Y en otras cosas...
 </p>
 <br>
 <h2>           (っ◔◡◔)っ 🦖 Certificados🦖</h2>
- <a href="https://www.credly.com/badges/68d5cd13-32e0-4c58-b0c9-0aca2ecb9e56" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png"/></a>
-<p align="center"><a href="https://www.credly.com/badges/61368849-eb69-4725-a65c-afbb6d336d16" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png"/></a>
+<p align="center"><a href="https://www.credly.com/badges/68d5cd13-32e0-4c58-b0c9-0aca2ecb9e56" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png"/></a>
+<a href="https://www.credly.com/badges/61368849-eb69-4725-a65c-afbb6d336d16" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png"/></a>
 <a href="https://www.credly.com/badges/aabf426c-239b-4b88-88cd-84b373bc765c/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/35197eb5-da41-4ad5-94e9-ad35c9fd7890/Cybersec_compl_framew_sys_admin.png"/></a>
 <a href="https://www.credly.com/badges/f55ca936-83a0-450e-8624-24e1f13219ba/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png"/></a>
  <a href="https://www.credly.com/badges/044c8770-0f49-4c1e-b2d0-77ff474c25c4/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png"/></a></p>
