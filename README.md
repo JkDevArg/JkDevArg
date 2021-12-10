@@ -43,7 +43,7 @@
 Y en otras cosas...
 </p>
 <br>
-<h2>           (っ◔◡◔)っ 🦖 Certificados🦖</h2>
+<center><h2>           (っ◔◡◔)っ 🦖 Certificados🦖</h2></center>
 <details>
 <summary><b>Cyber Security</b></summary>
   <p align="center"><a href="https://www.credly.com/badges/68d5cd13-32e0-4c58-b0c9-0aca2ecb9e56" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png"/></a>
@@ -54,7 +54,7 @@ Y en otras cosas...
   <a href="https://www.credly.com/badges/9c3525e8-93fd-4610-a8e6-74c6537be108/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/cb36f879-6801-40b9-8f2e-006d20b1cab2/Cyber_Threat_Intelligence.png"/></a></p>
 </details>
 </div>
-  <img src="https://giffiles.alphacoders.com/872/87250.gif" align="right" width="373.5px" height="208.5px">
+  <img src="https://giffiles.alphacoders.com/872/87250.gif" align="center" width="373.5px" height="208.5px">
 <br>
 <br>
 </div>
