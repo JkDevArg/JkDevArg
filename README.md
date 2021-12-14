@@ -43,7 +43,7 @@
 Y en otras cosas...
 </p>
 <br>
-<center><h2>           (っ◔◡◔)っ 🦖 Certificados🦖</h2></center>
+<center><h2>           (っ◔◡◔)っ 🦖 Aprendizaje🦖</h2></center>
 <details>
 <summary><b>Cyber Security</b></summary>
 <a href="https://www.credly.com/badges/9676dec8-c333-4426-a4d6-bd5e29431225/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png"/></a>
