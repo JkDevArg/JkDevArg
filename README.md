@@ -51,7 +51,6 @@ Y en otras cosas...
 </details>
 </div>
   <img src="https://giffiles.alphacoders.com/872/87250.gif" align="center" width="373.5px" height="208.5px">
-  <img src="https://giphy.com/gifs/forgoodmusic-dinosaur-dino-millions-of-years-apart-kMaJMthRiKycbr3buW" align="center" width="373.5px" height="208.5px">
 <br>
 <br>
 </div>
