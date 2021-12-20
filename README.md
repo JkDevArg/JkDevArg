@@ -1,5 +1,5 @@
 <body>
-<h1 align="center">(っ◔◡◔)っ 🦖 Bienvenido a mi Perfil 🦖</h1>
+<h1 align="center">(っ◔◡◔)っ 🦖 Bienvenido/a a mi Perfil 🦖</h1>
 <br>
 <div align="center">
 <img src="https://media2.giphy.com/media/bjVK2LVApXz68/giphy.gif">
@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Programar, escuchar musica & ver memes de dinosaurios
 </li>
 <li>
-<b>Trabajo:</b> Freelance
+<b>Trabajo:</b> Desarrollador Web en JuiceHosting
 </li>
 <br>
 <p>
