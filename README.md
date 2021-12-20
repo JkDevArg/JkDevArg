@@ -55,6 +55,7 @@ Y en otras cosas...
 <summary><b>More Dinosaur!!!</b></summary>
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/trex-saltando-a-la-comba.gif" align="center" width="373.5px" height="208.5px">
   <img src="https://giffiles.alphacoders.com/872/87250.gif" align="center" width="373.5px" height="208.5px">
+  <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/dinosaurios-en-fila-2.gif" align="center" width="373.5px" height="208.5px">
 </details>
 
 <br>
