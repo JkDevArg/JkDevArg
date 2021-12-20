@@ -50,7 +50,7 @@ Y en otras cosas...
 <a href="https://www.credly.com/badges/ad390542-2dcf-41e0-bddd-aa01f6ec217c/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png"/></a>
 </details>
 </div>
-<center><h2>           (っ◔◡◔)っ 🦖 GIFS and Images 🦖</h2></center>
+<center><h2> 🦖 GIFS and Images 🦖  ლ(´ڡ`ლ)</h2></center>
 <details>
 <summary><b>More Dinosaur!!!</b></summary>
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/trex-saltando-a-la-comba.gif" align="center" width="373.5px" height="208.5px">
