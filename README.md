@@ -31,7 +31,7 @@
 <p>
 </div>
 <div>
-<h2 align="left">            (っ◔◡◔)っ 🦖 Conocimientos🦖</h2>
+<h2 align="left">            ( ° ᴗ°)~ð  🦖 Conocimientos🦖 (/❛o❛\)</h2>
 <p>
 <img src="https://i.pinimg.com/originals/cd/39/dc/cd39dce633d39af61d724ea72d758746.gif" align="right">
 </div>
@@ -43,16 +43,16 @@
 Y en otras cosas...
 </p>
 <br>
-<center><h2>           (っ◔◡◔)っ 🦖 Aprendizaje🦖</h2></center>
+<center><h2>           (☞ ͡° ͜ʖ ͡°)☞ 🦖 Aprendizaje🦖</h2></center>
 <details>
 <summary><b>Cyber Security</b></summary>
 <a href="https://www.credly.com/badges/9676dec8-c333-4426-a4d6-bd5e29431225/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png"/></a>
 <a href="https://www.credly.com/badges/ad390542-2dcf-41e0-bddd-aa01f6ec217c/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png"/></a>
 </details>
 </div>
-<center><h2> 🦖 GIFS and Images 🦖  ლ(´ڡ`ლ)</h2></center>
+<center><h2> 🦖 GIFS e Images 🦖  ლ(´ڡ`ლ)</h2></center>
 <details>
-<summary><b>More Dinosaur!!!</b></summary>
+<summary><b>Más Dinosaurios!!!</b></summary>
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/trex-saltando-a-la-comba.gif" align="center" width="373.5px" height="208.5px">
   <img src="https://giffiles.alphacoders.com/872/87250.gif" align="center" width="373.5px" height="208.5px">
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/dinosaurios-en-fila-2.gif" align="center" width="373.5px" height="208.5px">
