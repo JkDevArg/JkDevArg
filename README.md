@@ -11,9 +11,9 @@
 <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984110.png" weidht="220" height="220" align="left">
   </span>
 <li>
-<b>Nombre:</b> Joaquin</li>
+<b>Nombre:</b> Joaquin C</li>
 <li>
-<b>Nacionalidad:</b> DinoLand
+<b>Nacionalidad:</b> Argentina
 </li>
 <li>
 <b>Dino?:</b> Dinooo Grrr!
@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Programar, escuchar musica & ver memes de dinosaurios
 </li>
 <li>
-<b>Trabajo:</b> Desarrollador Web en JuiceHosting
+<b>Trabajo:</b> Desarrollador Web en JuiceHosting & Cebador de mates mitad de tiempo
 </li>
 <br>
 <p>
