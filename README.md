@@ -28,7 +28,7 @@
 <b>Trabajo:</b> Desarrollador Web en JuiceHosting & Cebador de mates mitad de tiempo
 </li>
 <li>
-<b>Redes:</b><a href="https://www.linkedin.com/in/joaquincenturion/">Linkedin</a> | <a href="https://www.coursera.org/user/11caaad59f659043497f2303d63d36ed">Cousera</a> | Facebook
+<b>Redes: </b><a href="https://www.linkedin.com/in/joaquincenturion/">Linkedin</a> | <a href="https://www.coursera.org/user/11caaad59f659043497f2303d63d36ed">Cousera</a> | <a href="https://facebook.com/">Facebook</a>
 </li>
 <br>
 <p>
