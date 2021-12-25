@@ -1,5 +1,5 @@
 <body>
-<h1 align="center">(っ◔◡◔)っ 🦖 Bienvenido/a a mi Perfil 🦖</h1>
+<h1 align="center">(ʘ‿ʘ)╯ 🦖 Bienvenido/a a mi Perfil 🦖</h1>
 <br>
 <div align="center">
 <img src="https://media2.giphy.com/media/bjVK2LVApXz68/giphy.gif">
@@ -61,7 +61,26 @@ Y en otras cosas...
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/dinosaurios-en-fila-2.gif" align="center" width="373.5px" height="208.5px">
 </details>
 
-<br>
-<br>
+<center><h2>(ノಠ益ಠ)ノ彡┻━┻ 🦖 Estadisticas 🦖 </h2></center> 
+<details>
+<summary><b>Stats!!!</b></summary>
+<div align="center">
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkdevarg&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
+  </br>
+</a>
+</br>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=jkdevarg&theme=github&bg_color=20232a&hide_border=true" width="80%"/>
+</a></br>
+
+</br>
+<a href="https://github.com/projectdp">
+    <img src="https://komarev.com/ghpvc/?username=projectdp&color=blue"/>
+</a>
+</div>
+</details>
 </div>
 </body>
