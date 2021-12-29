@@ -77,8 +77,8 @@ Y en otras cosas...
 </a></br>
 
 </br>
-<a href="https://github.com/projectdp">
-    <img src="https://komarev.com/ghpvc/?username=projectdp&color=blue"/>
+<a href="https://github.com/jkdevarg">
+    <img src="https://komarev.com/ghpvc/?username=jkdevarg&color=blue"/>
 </a>
 </div>
 </details>
