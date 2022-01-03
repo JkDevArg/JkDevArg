@@ -41,9 +41,21 @@
 <div>
 <p align="center">
   <br /><br />
-  <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&logo=php7&logoColor=white"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Y en otras cosas...
+<img align="center" alt="Node.js" width="30px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />
+<img align="center" alt="Python" width="30px" src="https://www.python.org/static/favicon.ico" />
+<img align="center" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="center" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="Java" width="30px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" />
+<img align="center" alt="React" width="30px" src="https://reactjs.org/favicon.ico" />
+<img align="center" alt="PHP" width="30px" src="https://www.php.net/favicon.ico" />
+<img align="center" alt="MySQL" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" />
+
+<img align="center" alt="Flutter" width="30px" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" />
+<img align="center" alt="Git" width="30px" src="https://git-scm.com/favicon.ico" />
+<img align="center" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/favicon.ico" />
+<img align="center" alt="Linux" width="30px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" />
+<img align="center" alt="RedHat" width="30px" src="https://icons.iconarchive.com/icons/saki/nuoveXT/128/Apps-redhat-icon.png" />
 </p>
 <br>
 <center><h2>           (☞ ͡° ͜ʖ ͡°)☞ 🦖 Aprendizaje🦖</h2></center>
