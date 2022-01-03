@@ -71,6 +71,7 @@
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/trex-saltando-a-la-comba.gif" align="center" width="373.5px" height="208.5px">
   <img src="https://giffiles.alphacoders.com/872/87250.gif" align="center" width="373.5px" height="208.5px">
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/dinosaurios-en-fila-2.gif" align="center" width="373.5px" height="208.5px">
+  <img src="https://i.pinimg.com/originals/7a/e8/8d/7ae88d50cbd1703d1386888908b400f4.gif" align="center" width="373.5px" height="208.5px">
 </details>
 
 <center><h2>(ノಠ益ಠ)ノ彡┻━┻ 🦖 Estadisticas 🦖 </h2></center> 
