@@ -73,6 +73,12 @@
   <img src="https://gifsanimados.de/img-gifsanimados.de/d/dinosaurios/dinosaurios-en-fila-2.gif" align="center" width="373.5px" height="208.5px">
   <img src="https://i.pinimg.com/originals/7a/e8/8d/7ae88d50cbd1703d1386888908b400f4.gif" align="center" width="373.5px" height="208.5px">
 </details>
+<center><h2>(/¯◡ ‿ ◡)/¯  🦖 OutFits🦖	</h2></center>
+<details>
+<summary><b>Mis OutFits</b></summary>
+  <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984110.jpg" align="center" width="200px" height="200px" alt="OutFit Verano">
+  <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984111.jpg" align="center" width="200px" height="200px" alt="OutFit Navidad">
+</details>
 
 <center><h2>(ノಠ益ಠ)ノ彡┻━┻ 🦖 Estadisticas 🦖 </h2></center> 
 <details>
