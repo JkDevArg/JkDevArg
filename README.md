@@ -13,7 +13,7 @@
 <li>
 <b>Nombre:</b> Joaquin C</li>
 <li>
-<b>Nacionalidad:</b> Argentina
+<b>País:</b> Argentina
 </li>
 <li>
 <b>Dino?:</b> Dinooo Grrr!
