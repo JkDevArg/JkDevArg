@@ -77,6 +77,7 @@
 <details>
 <summary><b>Mis OutFits</b></summary>
   <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984110.jpg" align="center" width="200px" height="200px" alt="OutFit Verano">
+  <img src="https://i52.servimg.com/u/f52/12/98/31/84/dino_o10.jpg" align="center" width="200px" height="200px" alt="OutFit Otoño">
   <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984111.jpg" align="center" width="200px" height="200px" alt="OutFit Navidad">
 </details>
 
