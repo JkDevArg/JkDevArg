@@ -98,10 +98,10 @@
 </a></br>
 
 </br>
-[![wakatime](https://wakatime.com/badge/user/544a20fe-8ebb-4faa-bb3d-9f935ffa2037.svg)](https://wakatime.com/@544a20fe-8ebb-4faa-bb3d-9f935ffa2037)
 <a href="https://github.com/jkdevarg">
     <img src="https://komarev.com/ghpvc/?username=jkdevarg&color=red"/>
   
+  [![wakatime](https://wakatime.com/badge/user/544a20fe-8ebb-4faa-bb3d-9f935ffa2037.svg)](https://wakatime.com/@544a20fe-8ebb-4faa-bb3d-9f935ffa2037)
 </a>
 </div>
 </details>
