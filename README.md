@@ -86,6 +86,7 @@
 <summary><b>Stats!!!</b></summary>
 <div align="center">
   
+[![wakatime](https://wakatime.com/badge/user/544a20fe-8ebb-4faa-bb3d-9f935ffa2037.svg)](https://wakatime.com/@544a20fe-8ebb-4faa-bb3d-9f935ffa2037)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkdevarg&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
