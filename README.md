@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Programar, escuchar musica & ver memes de dinosaurios.
 </li>
 <li>
-<b>Trabajo:</b> Desarrollador Web en JuiceHosting, Asesor en Cyber Seguridad para Empresas & Cebador de mates mitad de tiempo
+<b>Trabajo:</b> Developer Full Stack en JuiceHosting, Developer Back End en Platanitos, Asesor en Cyber Seguridad para Empresas & Cebador de mates mitad de tiempo
 </li>
 <li>
 <b>Redes: </b><a href="https://www.linkedin.com/in/joaquincenturion/">Linkedin</a> | <a href="https://www.coursera.org/user/11caaad59f659043497f2303d63d36ed">Cousera</a> | <a href="https://www.facebook.com/joaquincentu">Facebook</a> | <a href="https://es.stackoverflow.com/users/102413">StackOverFlow</a>
