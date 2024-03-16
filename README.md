@@ -41,7 +41,7 @@
 <div>
 <p align="center">
   <br /><br />
-<img align="center" alt="Node.js" width="30px" src="https://nodejs.org/static/images/favicons/favicon-32x32.png" />
+<img align="center" alt="Node.js" width="30px" src="https://nodejs.org/static/images/favicons/favicon.png" />
 <img align="center" alt="Python" width="30px" src="https://www.python.org/static/favicon.ico" />
 <img align="center" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="center" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
