@@ -51,6 +51,7 @@
 <img align="center" alt="PHP" width="30px" src="https://www.php.net/favicon.ico" />
 <img align="center" alt="MySQL" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" />
 
+<img align="center" alt="Docker" width="30px" src="https://www.docker.com/wp-content/uploads/2024/02/cropped-docker-logo-favicon-32x32.png" />
 <img align="center" alt="Git" width="30px" src="https://git-scm.com/favicon.ico" />
 <img align="center" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/favicon.ico" />
 <img align="center" alt="Linux" width="30px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" />
