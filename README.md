@@ -51,11 +51,9 @@
 <img align="center" alt="PHP" width="30px" src="https://www.php.net/favicon.ico" />
 <img align="center" alt="MySQL" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" />
 
-<img align="center" alt="Flutter" width="30px" src="https://storage.googleapis.com/cms-storage-bucket/4fd0db61df0567c0f352.png" />
 <img align="center" alt="Git" width="30px" src="https://git-scm.com/favicon.ico" />
 <img align="center" alt="Visual Studio Code" width="30px" src="https://code.visualstudio.com/favicon.ico" />
 <img align="center" alt="Linux" width="30px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" />
-<img align="center" alt="RedHat" width="30px" src="https://icons.iconarchive.com/icons/saki/nuoveXT/128/Apps-redhat-icon.png" />
 </p>
 <br>
 <center><h2>           (☞ ͡° ͜ʖ ͡°)☞ 🦖 Aprendizaje🦖</h2></center>
