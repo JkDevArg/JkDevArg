@@ -104,7 +104,7 @@
 <center><h2>(༼ つ ◕3◕ ༽つ ♫♪♫ 🦖 Playlist 🦖 </h2></center> 
 <details>
 <summary><b>Playlist</b></summary>
-<img height="300em" src="https://spotify-recently-played-readme.vercel.app/api?user=31o752mtn2rnhzuwanvveqnjtwbi" />
+<img height="600em" src="https://spotify-recently-played-readme.vercel.app/api?user=31o752mtn2rnhzuwanvveqnjtwbi&unique={true|1|on|yes}&count=10" />
 </div>
 </details>
 </div>
