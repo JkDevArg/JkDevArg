@@ -94,13 +94,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=jkdevarg&theme=tokyo-night)" />
 </br>
-
-</br>
 <a href="https://github.com/jkdevarg">
     <img src="https://komarev.com/ghpvc/?username=jkdevarg&color=red"/>
   
   [![wakatime](https://wakatime.com/badge/user/544a20fe-8ebb-4faa-bb3d-9f935ffa2037.svg)](https://wakatime.com/@544a20fe-8ebb-4faa-bb3d-9f935ffa2037)
 </a>
+</div>
+</details>
+<center><h2>(༼ つ ◕3◕ ༽つ ♫♪♫ 🦖 Playlist 🦖 </h2></center> 
+<details>
+<summary><b>Playlist</b></summary>
+<img height="300em" src="https://spotify-recently-played-readme.vercel.app/api?user=31o752mtn2rnhzuwanvveqnjtwbi" />
 </div>
 </details>
 </div>
