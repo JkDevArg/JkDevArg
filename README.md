@@ -87,17 +87,13 @@
 <details>
 <summary><b>Stats!!!</b></summary>
 <div align="center">
-  
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkdevarg&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
-  </br>
-</a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkdevarg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)" />
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jkdevarg&theme=tokyonight&hide_border=false)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=jkdevarg&theme=tokyo-night)" />
 </br>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jkdevarg&theme=github&bg_color=20232a&hide_border=true" width="80%"/>
-</a></br>
 
 </br>
 <a href="https://github.com/jkdevarg">
