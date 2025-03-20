@@ -28,7 +28,7 @@
 <b>Work:</b> Programador & Cebador de mates mitad de tiempo
 </li>
 <li>
-<b>Redes: </b><a href="https://www.linkedin.com/in/joaquincenturion/">Linkedin</a> | <a href="https://www.coursera.org/user/11caaad59f659043497f2303d63d36ed">Cousera</a> | <a href="https://www.facebook.com/joaquincentu">Facebook</a> | <a href="https://es.stackoverflow.com/users/102413">StackOverFlow</a>
+<b>Redes: </b><a href="https://www.linkedin.com/in/joaquincenturion/">Linkedin</a>| <a href="https://es.stackoverflow.com/users/102413">StackOverFlow</a>
 </li>
 <br>
 <p>
@@ -60,9 +60,8 @@
 <center><h2>           (☞ ͡° ͜ʖ ͡°)☞ 🦖 Aprendizaje🦖</h2></center>
 <details>
 <summary><b>Cyber Security</b></summary>
-<a href="https://www.credly.com/badges/9676dec8-c333-4426-a4d6-bd5e29431225/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png"/></a>
-<a href="https://www.credly.com/badges/ad390542-2dcf-41e0-bddd-aa01f6ec217c/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png"/></a>
-<a href="https://codered.eccouncil.org/certificate/8f2acd1d-4c56-412b-bce4-8a633ad2ff0d" target="_blank"><img height="175px" wiedth="175px" src="https://eccommonstorage.blob.core.windows.net/codered/certificates/8f2acd1d-4c56-412b-bce4-8a633ad2ff0d.png"/></a>
+<a href="https://www.credly.com/badges/9676dec8-c333-4426-a4d6-bd5e29431225/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_
+<a 
 
   
 </details>
