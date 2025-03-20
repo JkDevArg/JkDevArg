@@ -25,7 +25,7 @@
 <b>Hobbys:</b> Programar, escuchar musica & ver memes de dinosaurios.
 </li>
 <li>
-<b>Work:</b> Developer Full Stack, Asesor en Cyber Seguridad para Empresas & Cebador de mates mitad de tiempo
+<b>Work:</b> Programador & Cebador de mates mitad de tiempo
 </li>
 <li>
 <b>Redes: </b><a href="https://www.linkedin.com/in/joaquincenturion/">Linkedin</a> | <a href="https://www.coursera.org/user/11caaad59f659043497f2303d63d36ed">Cousera</a> | <a href="https://www.facebook.com/joaquincentu">Facebook</a> | <a href="https://es.stackoverflow.com/users/102413">StackOverFlow</a>
@@ -83,18 +83,7 @@
   <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984111.jpg" align="center" width="200px" height="200px" alt="OutFit Navidad">
 </details>
 
-<center><h2>(ノಠ益ಠ)ノ彡┻━┻ 🦖 Estadisticas 🦖 </h2></center> 
-<details>
-<summary><b>Stats!!!</b></summary>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkdevarg&theme=react&show_icons=true&border_radius=25&hide=issues&custom_title=GitHub%20Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkdevarg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)" />
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jkdevarg&theme=tokyonight&hide_border=false)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkdevarg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=jkdevarg&theme=tokyo-night)" />
-</br>
-<a href="https://github.com/jkdevarg">
+<cente
     <img src="https://komarev.com/ghpvc/?username=jkdevarg&color=red"/>
   
   [![wakatime](https://wakatime.com/badge/user/544a20fe-8ebb-4faa-bb3d-9f935ffa2037.svg)](https://wakatime.com/@544a20fe-8ebb-4faa-bb3d-9f935ffa2037)
