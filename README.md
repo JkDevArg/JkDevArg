@@ -82,9 +82,9 @@
   <img src="https://i52.servimg.com/u/f52/12/98/31/84/69984111.jpg" align="center" width="200px" height="200px" alt="OutFit Navidad">
 </details>
 
-<cente
+<center>
     <img src="https://komarev.com/ghpvc/?username=jkdevarg&color=red"/>
-  
+</center>
   [![wakatime](https://wakatime.com/badge/user/544a20fe-8ebb-4faa-bb3d-9f935ffa2037.svg)](https://wakatime.com/@544a20fe-8ebb-4faa-bb3d-9f935ffa2037)
 </a>
 </div>
