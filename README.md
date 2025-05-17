@@ -60,10 +60,6 @@
 <center><h2>           (☞ ͡° ͜ʖ ͡°)☞ 🦖 Aprendizaje🦖</h2></center>
 <details>
 <summary><b>Cyber Security</b></summary>
-<a href="https://www.credly.com/badges/9676dec8-c333-4426-a4d6-bd5e29431225/public_url" target="_blank"><img height="175px" wiedth="175px" src="https://images.credly.com/size/340x340/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_
-<a 
-
-  
 </details>
 </div>
 <center><h2> 🦖 GIFS e Images 🦖  ლ(´ڡ`ლ)</h2></center>
@@ -85,7 +81,6 @@
 <center>
     <img src="https://komarev.com/ghpvc/?username=jkdevarg&color=red"/>
 </center>
-</a>
 </div>
 </details>
 <center><h2>(༼ つ ◕3◕ ༽つ ♫♪♫ 🦖 Playlist 🦖 </h2></center> 
